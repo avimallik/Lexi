@@ -1,2 +1,2 @@
 # Lexi
-Lexi a IELTS Vaocabulary storage app
+Lexi a IELTS Vocabulary storage app
